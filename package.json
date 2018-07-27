@@ -2,10 +2,10 @@
   "name": "api-testing",
   "version": "1.0.0",
   "description": "Testing API using Jest, Supertest, jest-json-schema and jest-allure",
-  "homepage": "readme",
+  "homepage": "https://github.com/woolter/RestAPITesting-jest-supertest/#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/lodgify/lodgify-qa-frontend.git"
+    "url": "git+https://github.com/woolter/RestAPITesting-jest-supertest"
   },
   "keywords": [
     "API testing",
@@ -17,7 +17,7 @@
   "author": "Walter Lijo - lijowalter@gmail.com",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/lodgify/lodgify-qa-frontend/issues"
+    "url": "https://github.com/woolter/RestAPITesting-jest-supertest/issues"
   },
   "scripts": {
     "test": "jest --config config/jest.config.js",
